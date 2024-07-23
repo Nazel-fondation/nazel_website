@@ -33,7 +33,7 @@ export default function App() {
               <FaGithub className="mr-2" />
               GitHub
             </a>
-            <a onMouseEnter={() => gsap.to("#button6", {scale: 1.1, delay: 0.05})} onMouseLeave={() => gsap.to("#button6", {scale: 1, delay: 0.05})} id="button6" href="https://github.com/thibault0712/nazel_launcher" className="flex-button cursor-pointer flex items-center text-xl text-background bg-white rounded-lg font-extrabold px-6 py-2">
+            <a onMouseEnter={() => gsap.to("#button6", {scale: 1.1, delay: 0.05})} onMouseLeave={() => gsap.to("#button6", {scale: 1, delay: 0.05})} id="button6" href="https://discord.gg/6aGSYFnZsD" className="flex-button cursor-pointer flex items-center text-xl text-background bg-white rounded-lg font-extrabold px-6 py-2">
               <FaDiscord className="mr-2" />
               Discord
             </a>
