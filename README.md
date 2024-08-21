@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Nazel Website 🌐
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Le [**Nazel Website**](https://nazel-website.web.app) est le site officiel pour télécharger le Nazel Launcher, un launcher Minecraft open-source qui permet de rejoindre des serveurs publics ou de créer des serveurs de mini-jeux privés.
 
-## Available Scripts
+## Fonctionnalités du site 🖥️
 
-In the project directory, you can run:
+- **Téléchargement** : Le site permet aux utilisateurs de télécharger facilement la dernière version du Nazel Launcher.
 
-### `npm start`
+## Technologies utilisées 🛠️
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Ce site est développé en **React.js**, une bibliothèque JavaScript populaire pour créer des interfaces utilisateur dynamiques.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation locale 🚀
 
-### `npm test`
+Vous pouvez cloner et exécuter ce site localement pour y apporter des modifications ou simplement l'explorer.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prérequis 📋
 
-### `npm run build`
+- Node.js et npm doivent être installés sur votre machine.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Étapes d'installation 🔧
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clonez le dépôt :
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    ```bash
+    git clone https://github.com/Nazel-fondation/nazel_website.git
+    cd nazel-website
+    ```
 
-### `npm run eject`
+2. Installez les dépendances nécessaires :
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    ```bash
+    npm install
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Démarrez le serveur de développement :
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    ```bash
+    npm start
+    ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Le site sera accessible à l'adresse `http://localhost:3000` dans votre navigateur.
 
-## Learn More
+## Contribution 🤝
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Les contributions sont les bienvenues ! Voici les étapes de base pour contribuer :
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Forkez le projet. 🍴
+2. Créez une branche pour votre fonctionnalité ou correction (`git checkout -b feature/ma-fonctionnalite`). 🌿
+3. Commitez vos modifications (`git commit -m 'Ajout de ma fonctionnalité'`). 💬
+4. Poussez votre branche (`git push origin feature/ma-fonctionnalite`). 📤
+5. Ouvrez une Pull Request. 🔄
 
-### Code Splitting
+Merci de respecter les bonnes pratiques de code lors de vos contributions.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Licence 📄
 
-### Analyzing the Bundle Size
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](./LICENSE) pour plus de détails.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Contact 📬
 
-### Making a Progressive Web App
+Pour toute question ou support, vous pouvez me contacter via :
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Email : thibaultfalezan@gmail.com
+- Discord : Vupilex
