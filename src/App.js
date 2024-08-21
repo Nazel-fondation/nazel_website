@@ -29,7 +29,7 @@ export default function App() {
               <FaDownload className="mr-2" />
               Télécharger
             </button>
-            <a onMouseEnter={() => gsap.to("#button2", {scale: 1.1, delay: 0.05})} onMouseLeave={() => gsap.to("#button2", {scale: 1, delay: 0.05})} id="button2" href="https://github.com/thibault0712/nazel_launcher" className="flex-button cursor-pointer flex items-center text-xl text-background bg-white rounded-lg font-extrabold px-6 py-2">
+            <a onMouseEnter={() => gsap.to("#button2", {scale: 1.1, delay: 0.05})} onMouseLeave={() => gsap.to("#button2", {scale: 1, delay: 0.05})} id="button2" href="https://github.com/Nazel-fondation" className="flex-button cursor-pointer flex items-center text-xl text-background bg-white rounded-lg font-extrabold px-6 py-2">
               <FaGithub className="mr-2" />
               GitHub
             </a>
@@ -53,7 +53,7 @@ export default function App() {
                 <span className="text-4xl font-extrabold">Windows</span>
               </div>
             </div>
-            <a onMouseEnter={() => gsap.to("#button3", {scale: 1.1, delay: 0.05})} onMouseLeave={() => gsap.to("#button3", {scale: 1, delay: 0.05})} id="button3" href="https://github.com/thibault0712/nazel_launcher/releases/latest/download/Nazel.exe" className="mt-auto flex items-center text-xl bg-white text-background rounded-lg font-extrabold px-6 py-2">
+            <a onMouseEnter={() => gsap.to("#button3", {scale: 1.1, delay: 0.05})} onMouseLeave={() => gsap.to("#button3", {scale: 1, delay: 0.05})} id="button3" href="https://github.com/Nazel-fondation/nazel_launcher/releases/latest/download/Nazel.exe" className="mt-auto flex items-center text-xl bg-white text-background rounded-lg font-extrabold px-6 py-2">
               <FaDownload className="mr-2" />
               Télécharger
             </a>
@@ -66,7 +66,7 @@ export default function App() {
                 <span className="text-4xl font-extrabold">Apple</span>
               </div>
             </div>
-            <a onMouseEnter={() => gsap.to("#button4", {scale: 1.1, delay: 0.05})} onMouseLeave={() => gsap.to("#button4", {scale: 1, delay: 0.05})} id="button4" href="https://github.com/thibault0712/nazel_launcher/releases/latest/download/Nazel.dmg" className="mt-auto flex items-center text-xl bg-white text-background rounded-lg font-extrabold px-6 py-2">
+            <a onMouseEnter={() => gsap.to("#button4", {scale: 1.1, delay: 0.05})} onMouseLeave={() => gsap.to("#button4", {scale: 1, delay: 0.05})} id="button4" href="https://github.com/Nazel-fondation/nazel_launcher/releases/latest/download/Nazel.dmg" className="mt-auto flex items-center text-xl bg-white text-background rounded-lg font-extrabold px-6 py-2">
               <FaDownload className="mr-2" />
               Télécharger
             </a>
@@ -79,7 +79,7 @@ export default function App() {
                 <span className="text-4xl font-extrabold">Linux</span>
               </div>
             </div>
-            <a onMouseEnter={() => gsap.to("#button5", {scale: 1.1, delay: 0.05})} onMouseLeave={() => gsap.to("#button5", {scale: 1, delay: 0.05})} id="button5"href="https://github.com/thibault0712/nazel_launcher/releases/latest/download/Nazel.deb" className="mt-auto flex items-center text-xl bg-white text-background rounded-lg font-extrabold px-6 py-2">
+            <a onMouseEnter={() => gsap.to("#button5", {scale: 1.1, delay: 0.05})} onMouseLeave={() => gsap.to("#button5", {scale: 1, delay: 0.05})} id="button5"href="https://github.com/Nazel-fondation/nazel_launcher/releases/latest/download/Nazel.deb" className="mt-auto flex items-center text-xl bg-white text-background rounded-lg font-extrabold px-6 py-2">
               <FaDownload className="mr-2" />
               Télécharger
             </a>
@@ -100,7 +100,7 @@ export default function App() {
           </div>
           <div className="flex mt-4 md:mt-0 w-1/3">
             <div className="mx-auto flex space-x-8 justify-center">
-              <a href="https://github.com/thibault0712/nazel_launcher" className="text-xl hover:text-gray-400 ">
+              <a href="https://github.com/Nazel-fondation" className="text-xl hover:text-gray-400 ">
                 <FaGithub />
               </a>
               <a href="https://discord.gg/6aGSYFnZsD" className="text-xl hover:text-gray-400">
