@@ -2,10 +2,6 @@
 
 Le [**Nazel Website**](https://nazel-website.web.app) est le site officiel pour télécharger le Nazel Launcher, un launcher Minecraft open-source qui permet de rejoindre des serveurs publics ou de créer des serveurs de mini-jeux privés.
 
-## Fonctionnalités du site 🖥️
-
-- **Téléchargement** : Le site permet aux utilisateurs de télécharger facilement la dernière version du Nazel Launcher.
-
 ## Technologies utilisées 🛠️
 
 Ce site est développé en **React.js**, une bibliothèque JavaScript populaire pour créer des interfaces utilisateur dynamiques.
